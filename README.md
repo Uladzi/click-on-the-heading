@@ -2,4 +2,4 @@
 "Click on the heading" game
 
 #### deployed:
-https://uladzi.github.io/gallows-game
+https://uladzi.github.io/click-on-the-heading/
