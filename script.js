@@ -40,6 +40,7 @@ const intervalID = [setInterval(squareAnimation, intervalLength)];
 let clicks = 10;
 
 const speedUpIntervalFunc = function() {
+    $('img').fadeOut(50).fadeIn(50);
     intervalLength -= 5;
     clicks--;
     $('h1').text(clicks);
