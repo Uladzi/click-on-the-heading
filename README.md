@@ -1,4 +1,4 @@
-# click-on-the-heading
+# click-on-the-zebra
 "Click on the heading" game
 
 #### deployed:
